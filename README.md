@@ -29,7 +29,7 @@ If you plan to use Oracle OCI Cloud Shell as explained in the blog post, you don
     ```bash
     cd terraform
     ```
-- Edit file ***obpevents/terraform/terraform.tfvars*** and provide your account details.
+- Edit file ***oci-obp-extension/terraform/terraform.tfvars*** and provide your account details.
 
 - Initialize terraform project
 
@@ -51,6 +51,6 @@ If you plan to use Oracle OCI Cloud Shell as explained in the blog post, you don
 
 ## Contributing
 
-`cloud.asset.blockchain-events-oci-extension` is an open source project. See [CONTRIBUTING](CONTRIBUTING.md) for details.
+`oci-obp-extension` is an open source project. See [CONTRIBUTING](CONTRIBUTING.md) for details.
 
-Oracle gratefully acknowledges the contributions to `cloud.asset.blockchain-events-oci-extension` that have been made by the community.
+Oracle gratefully acknowledges the contributions to `oci-obp-extension` that have been made by the community.
